@@ -1,3 +1,17 @@
+```javascript
+var s = "Подсветка JavaScript";
+alert(s);
+```
+ 
+```python
+s = "Подсветка Python"
+print s
+```
+ 
+```
+Язык не указан, синтаксис не подсвечен.
+Но мы вставим в него <b>тег</b>.
+```
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dim5x/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
